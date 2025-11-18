@@ -1,0 +1,331 @@
+{
+  "STU0001": {
+    "name": "Aarav Sharma",
+    "grade": "10th",
+    "email": "aarav.sharma@school.edu.in",
+    "phone": "+91-98765-43210",
+    "created": "2024-03-15 09:30:00"
+  },
+  "STU0002": {
+    "name": "Ananya Patel",
+    "grade": "11th",
+    "email": "ananya.patel@school.edu.in",
+    "phone": "+91-98765-43211",
+    "created": "2024-03-16 10:15:00"
+  },
+  "STU0004": {
+    "name": "Diya Singh",
+    "grade": "12th",
+    "email": "diya.singh@school.edu.in",
+    "phone": "+91-98765-43213",
+    "created": "2024-03-18 14:45:00"
+  },
+  "STU0005": {
+    "name": "Vihaan Reddy",
+    "grade": "10th",
+    "email": "vihaan.reddy@school.edu.in",
+    "phone": "+91-98765-43214",
+    "created": "2024-03-19 08:30:00"
+  },
+  "STU0006": {
+    "name": "Aisha Gupta",
+    "grade": "11th",
+    "email": "aisha.gupta@school.edu.in",
+    "phone": "+91-98765-43215",
+    "created": "2024-03-20 13:15:00"
+  },
+  "STU0007": {
+    "name": "Reyansh Verma",
+    "grade": "9th",
+    "email": "reyansh.verma@school.edu.in",
+    "phone": "+91-98765-43216",
+    "created": "2024-03-21 09:45:00"
+  },
+  "STU0008": {
+    "name": "Saanvi Iyer",
+    "grade": "12th",
+    "email": "saanvi.iyer@school.edu.in",
+    "phone": "+91-98765-43217",
+    "created": "2024-03-22 10:30:00"
+  },
+  "STU0009": {
+    "name": "Aditya Joshi",
+    "grade": "10th",
+    "email": "aditya.joshi@school.edu.in",
+    "phone": "+91-98765-43218",
+    "created": "2024-03-23 15:20:00"
+  },
+  "STU0010": {
+    "name": "Isha Nair",
+    "grade": "11th",
+    "email": "isha.nair@school.edu.in",
+    "phone": "+91-98765-43219",
+    "created": "2024-03-24 11:00:00"
+  },
+  "STU0011": {
+    "name": "Vivaan Desai",
+    "grade": "9th",
+    "email": "vivaan.desai@school.edu.in",
+    "phone": "+91-98765-43220",
+    "created": "2024-03-25 08:45:00"
+  },
+  "STU0012": {
+    "name": "Kiara Mehta",
+    "grade": "12th",
+    "email": "kiara.mehta@school.edu.in",
+    "phone": "+91-98765-43221",
+    "created": "2024-03-26 14:30:00"
+  },
+  "STU0013": {
+    "name": "Ayaan Khan",
+    "grade": "10th",
+    "email": "ayaan.khan@school.edu.in",
+    "phone": "+91-98765-43222",
+    "created": "2024-03-27 09:15:00"
+  },
+  "STU0014": {
+    "name": "Navya Rao",
+    "grade": "11th",
+    "email": "navya.rao@school.edu.in",
+    "phone": "+91-98765-43223",
+    "created": "2024-03-28 10:45:00"
+  },
+  "STU0015": {
+    "name": "Kabir Pandey",
+    "grade": "9th",
+    "email": "kabir.pandey@school.edu.in",
+    "phone": "+91-98765-43224",
+    "created": "2024-03-29 13:20:00"
+  },
+  "STU0016": {
+    "name": "Myra Kapoor",
+    "grade": "12th",
+    "email": "myra.kapoor@school.edu.in",
+    "phone": "+91-98765-43225",
+    "created": "2024-03-30 08:30:00"
+  },
+  "STU0017": {
+    "name": "Shaurya Mishra",
+    "grade": "10th",
+    "email": "shaurya.mishra@school.edu.in",
+    "phone": "+91-98765-43226",
+    "created": "2024-03-31 15:00:00"
+  },
+  "STU0018": {
+    "name": "Anvi Pillai",
+    "grade": "11th",
+    "email": "anvi.pillai@school.edu.in",
+    "phone": "+91-98765-43227",
+    "created": "2024-04-01 09:30:00"
+  },
+  "STU0019": {
+    "name": "Dhruv Agarwal",
+    "grade": "9th",
+    "email": "dhruv.agarwal@school.edu.in",
+    "phone": "+91-98765-43228",
+    "created": "2024-04-02 11:15:00"
+  },
+  "STU0020": {
+    "name": "Riya Malhotra",
+    "grade": "12th",
+    "email": "riya.malhotra@school.edu.in",
+    "phone": "+91-98765-43229",
+    "created": "2024-04-03 14:45:00"
+  },
+  "STU0021": {
+    "name": "Arnav Bose",
+    "grade": "10th",
+    "email": "arnav.bose@school.edu.in",
+    "phone": "+91-98765-43230",
+    "created": "2024-04-04 08:20:00"
+  },
+  "STU0022": {
+    "name": "Prisha Chatterjee",
+    "grade": "11th",
+    "email": "prisha.chatterjee@school.edu.in",
+    "phone": "+91-98765-43231",
+    "created": "2024-04-05 10:00:00"
+  },
+  "STU0023": {
+    "name": "Atharv Sinha",
+    "grade": "9th",
+    "email": "atharv.sinha@school.edu.in",
+    "phone": "+91-98765-43232",
+    "created": "2024-04-06 13:30:00"
+  },
+  "STU0025": {
+    "name": "Advait Kulkarni",
+    "grade": "10th",
+    "email": "advait.kulkarni@school.edu.in",
+    "phone": "+91-98765-43234",
+    "created": "2024-04-08 15:15:00"
+  },
+  "STU0026": {
+    "name": "Ishita Menon",
+    "grade": "11th",
+    "email": "ishita.menon@school.edu.in",
+    "phone": "+91-98765-43235",
+    "created": "2024-04-09 08:50:00"
+  },
+  "STU0027": {
+    "name": "Rudra Thakur",
+    "grade": "9th",
+    "email": "rudra.thakur@school.edu.in",
+    "phone": "+91-98765-43236",
+    "created": "2024-04-10 11:30:00"
+  },
+  "STU0028": {
+    "name": "Avni Saxena",
+    "grade": "12th",
+    "email": "avni.saxena@school.edu.in",
+    "phone": "+91-98765-43237",
+    "created": "2024-04-11 14:20:00"
+  },
+  "STU0029": {
+    "name": "Sai Krishnan",
+    "grade": "10th",
+    "email": "sai.krishnan@school.edu.in",
+    "phone": "+91-98765-43238",
+    "created": "2024-04-12 09:00:00"
+  },
+  "STU0030": {
+    "name": "Tara Bhatt",
+    "grade": "11th",
+    "email": "tara.bhatt@school.edu.in",
+    "phone": "+91-98765-43239",
+    "created": "2024-04-13 10:40:00"
+  },
+  "STU0031": {
+    "name": "Yash Dubey",
+    "grade": "9th",
+    "email": "yash.dubey@school.edu.in",
+    "phone": "+91-98765-43240",
+    "created": "2024-04-14 13:15:00"
+  },
+  "STU0032": {
+    "name": "Zara Chopra",
+    "grade": "12th",
+    "email": "zara.chopra@school.edu.in",
+    "phone": "+91-98765-43241",
+    "created": "2024-04-15 08:35:00"
+  },
+  "STU0033": {
+    "name": "Rohan Shetty",
+    "grade": "10th",
+    "email": "rohan.shetty@school.edu.in",
+    "phone": "+91-98765-43242",
+    "created": "2024-04-16 15:25:00"
+  },
+  "STU0034": {
+    "name": "Meera Yadav",
+    "grade": "11th",
+    "email": "meera.yadav@school.edu.in",
+    "phone": "+91-98765-43243",
+    "created": "2024-04-17 09:20:00"
+  },
+  "STU0035": {
+    "name": "Karan Bajaj",
+    "grade": "9th",
+    "email": "karan.bajaj@school.edu.in",
+    "phone": "+91-98765-43244",
+    "created": "2024-04-18 11:50:00"
+  },
+  "STU0036": {
+    "name": "Nisha Tiwari",
+    "grade": "12th",
+    "email": "nisha.tiwari@school.edu.in",
+    "phone": "+91-98765-43245",
+    "created": "2024-04-19 14:10:00"
+  },
+  "STU0037": {
+    "name": "Pranav Jain",
+    "grade": "10th",
+    "email": "pranav.jain@school.edu.in",
+    "phone": "+91-98765-43246",
+    "created": "2024-04-20 08:40:00"
+  },
+  "STU0038": {
+    "name": "Kavya Hegde",
+    "grade": "11th",
+    "email": "kavya.hegde@school.edu.in",
+    "phone": "+91-98765-43247",
+    "created": "2024-04-21 10:25:00"
+  },
+  "STU0039": {
+    "name": "Aryan Ghosh",
+    "grade": "9th",
+    "email": "aryan.ghosh@school.edu.in",
+    "phone": "+91-98765-43248",
+    "created": "2024-04-22 13:45:00"
+  },
+  "STU0040": {
+    "name": "Pooja Rane",
+    "grade": "12th",
+    "email": "pooja.rane@school.edu.in",
+    "phone": "+91-98765-43249",
+    "created": "2024-04-23 09:10:00"
+  },
+  "STU0041": {
+    "name": "Lakshya Bhatia",
+    "grade": "10th",
+    "email": "lakshya.bhatia@school.edu.in",
+    "phone": "+91-98765-43250",
+    "created": "2024-04-24 15:30:00"
+  },
+  "STU0042": {
+    "name": "Tanvi Mukherjee",
+    "grade": "11th",
+    "email": "tanvi.mukherjee@school.edu.in",
+    "phone": "+91-98765-43251",
+    "created": "2024-04-25 08:55:00"
+  },
+  "STU0043": {
+    "name": "Nikhil Shukla",
+    "grade": "9th",
+    "email": "nikhil.shukla@school.edu.in",
+    "phone": "+91-98765-43252",
+    "created": "2024-04-26 11:20:00"
+  },
+  "STU0044": {
+    "name": "Shreya Das",
+    "grade": "12th",
+    "email": "shreya.das@school.edu.in",
+    "phone": "+91-98765-43253",
+    "created": "2024-04-27 14:35:00"
+  },
+  "STU0045": {
+    "name": "Varun Naik",
+    "grade": "10th",
+    "email": "varun.naik@school.edu.in",
+    "phone": "+91-98765-43254",
+    "created": "2024-04-28 09:25:00"
+  },
+  "STU0046": {
+    "name": "Aditi Goswami",
+    "grade": "11th",
+    "email": "aditi.goswami@school.edu.in",
+    "phone": "+91-98765-43255",
+    "created": "2024-04-29 10:50:00"
+  },
+  "STU0048": {
+    "name": "Divya Kaur",
+    "grade": "12th",
+    "email": "divya.kaur@school.edu.in",
+    "phone": "+91-98765-43257",
+    "created": "2024-05-01 08:15:00"
+  },
+  "STU0049": {
+    "name": "Raghav Sethi",
+    "grade": "10th",
+    "email": "raghav.sethi@school.edu.in",
+    "phone": "+91-98765-43258",
+    "created": "2024-05-02 15:40:00"
+  },
+  "STU0050": {
+    "name": "Simran Kohli",
+    "grade": "11th",
+    "email": "simran.kohli@school.edu.in",
+    "phone": "+91-98765-43259",
+    "created": "2024-05-03 09:55:00"
+  }
+}
